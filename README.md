@@ -11,6 +11,6 @@
 
 IP-адрес 158.160.116.231
 
-Frontend [ссылка] (https://mestoworld.nomoredomainsrocks.ru/)
+Frontend [ссылка] (https://mestoworld.nomoredomainsrocks.ru)
 
-Backend [ссылка] (https://mestoworld.nomoredomainsrocks.ru/)
+Backend [ссылка] (https://api.mestoworld.nomoredomainsrocks.ru)
