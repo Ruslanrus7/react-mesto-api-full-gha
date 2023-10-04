@@ -1,4 +1,5 @@
-export const BASE_URL = 'http://api.mestoworld.nomoredomainsrocks.ru';
+export const BASE_URL = 'https://api.mestoworld.nomoredomainsrocks.ru';
+
 
 const getResponseData = (res) => {
   if(res.ok) {
