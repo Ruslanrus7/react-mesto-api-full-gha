@@ -1,0 +1,19 @@
+.profile__info-content {
+  max-width: 400px;
+}
+
+@media (max-width: 800px) {
+
+  .profile__info-content {
+    margin: 0 0 33px 0;
+    text-align: center;
+  }
+}
+
+@media (max-width: 450px) {
+  .profile__info-content {
+    max-width: 200px;
+  }
+}
+
+

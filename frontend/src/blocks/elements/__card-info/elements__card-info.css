@@ -1,0 +1,9 @@
+.elements__card-info {
+  padding: 21px 15px 19px 21px;
+  height: 40px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 0 0 10px 10px;
+  position: relative;
+}

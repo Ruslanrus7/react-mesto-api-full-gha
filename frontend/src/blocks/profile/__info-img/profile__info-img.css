@@ -1,0 +1,5 @@
+@media (max-width: 450px) {
+  .profile__info-img {
+    width: 18px;
+  }
+}

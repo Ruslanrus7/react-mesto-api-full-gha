@@ -1,0 +1,25 @@
+.profile__info-button {
+  background-color: #000;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  font-size: 0;
+  padding-left: 18px;
+  padding-top: 18px;
+  align-self: start;
+  transition: opacity 0.6s linear;
+}
+
+.profile__info-button:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 450px) {
+  .profile__info-button {
+    padding: 10px 0 0 10px;
+  }
+}
+
+
+
+

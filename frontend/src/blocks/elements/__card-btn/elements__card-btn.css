@@ -1,0 +1,18 @@
+.elements__card-btn {
+  background: url(../../../images/like.svg) no-repeat center;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  padding: 0;
+  width: 22px;
+  height: 19px;
+  transition: opacity 0.6s linear;
+  align-self: start;
+  margin-right: 4px;
+}
+
+.elements__card-btn:hover {
+  opacity: 0.5;
+}
+
+

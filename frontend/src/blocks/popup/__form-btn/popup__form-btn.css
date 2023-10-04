@@ -1,0 +1,26 @@
+.popup__form-btn {
+  border: none;
+  font-size: 18px;
+  line-height: 1.2;
+  color: #fff;
+  width: 100%;
+  height: 50px;
+  background-color: #000;
+  cursor: pointer;
+  padding: 14px 0 18px;
+  box-sizing: border-box;
+  transition: opacity 0.6s linear;
+  border-radius: 2px;
+}
+
+.popup__form-btn:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 640px) {
+  .popup__form-btn {
+    font-size: 14px;
+    padding: 14px 0;
+    height: auto;
+  }
+}

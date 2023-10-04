@@ -1,0 +1,16 @@
+.popup__text-edit {
+  max-width: 330px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #000;
+  margin: 0 0 44px 36px;
+}
+
+@media (max-width: 640px) {
+  .popup__text-edit {
+    max-width: 238px;
+    font-size: 18px;
+    margin: 0 22px 65px;
+  }
+}

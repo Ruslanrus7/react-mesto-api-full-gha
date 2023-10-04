@@ -1,0 +1,10 @@
+.page__elements {
+  margin: 0 auto 67px;
+}
+
+@media(max-width: 450px) {
+  .page__elements {
+    padding: 0 19px;
+    margin-bottom: 48px;
+  }
+}

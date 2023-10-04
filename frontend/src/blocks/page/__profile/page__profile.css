@@ -1,0 +1,15 @@
+.page__profile {
+  margin: 0 auto 51px;
+}
+
+@media (max-width: 944px) {
+  .page__profile {
+  padding: 0 19px;
+  }
+}
+
+@media(max-width: 450px) {
+  .page__profile  {
+    margin-bottom: 36px;
+  }
+}
