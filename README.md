@@ -9,6 +9,6 @@
 ## Стек:
  React, JS, NodeJS, Express, MongoDB, API, JWT, Postman, Html, CSS, Git, Адаптивная верстка, БЭМ, Figma.
 ## Инструкция:
-npm start - для запуска фронта
-npm run start - для запуска сервера
+* npm start - для запуска фронта
+* npm run start - для запуска сервера
 
